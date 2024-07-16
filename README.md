@@ -21,4 +21,4 @@ This is a portfolio web application created using React, featuring animations an
 - **Responsive Design**: Built with react-bootstrap for a fully responsive layout.
 - **Smooth Scrolling**: Navigate through different sections smoothly using react-router-hash-link.
 
-live deployed: [https://portfoliolib.netlify.app/] (https://portfoliolib.netlify.app/)
+live deployed: https://portfoliolib.netlify.app/
